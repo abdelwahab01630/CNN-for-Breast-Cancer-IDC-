@@ -20,5 +20,5 @@ of the format: uxXyYclassC.png. Where u is the patient ID, X is the x−coordina
 this patch was cropped from, Y is the y−coordinate of where this patch was cropped from, and
 C indicates the class where 0 is non-IDC and 1 is IDC. 
 
-
+![](image/data-stat.png)
 
