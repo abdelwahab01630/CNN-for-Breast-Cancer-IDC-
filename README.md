@@ -19,3 +19,5 @@ breast tissue contains many cells but only some of them are cancerous. Each patc
 of the format: uxXyYclassC.png. Where u is the patient ID, X is the x−coordinate of where
 this patch was cropped from, Y is the y−coordinate of where this patch was cropped from, and
 C indicates the class where 0 is non-IDC and 1 is IDC. 
+
+
