@@ -35,4 +35,4 @@ C indicates the class where 0 is non-IDC and 1 is IDC.
 ![](image/vgg16-acc.png)
 
 # Conclusion
-
+A method for invasive ductal carcinoma diagnosis using histopathology images was proposed using a computer-aided tools based on deep learning algorithms. The model helps to detect whether the histopathology image of the patients is malignant or benign. Different types of models were trained on the data set; a CNN model built from scratch and models from transfer learning. These models were trained on AIMS GPU server, and the pre-trained model Resnet-50 has shown a good performance with an accuracy of $94\%$. This AI approach of detecting cancers might be implemented at the hospital or clinic to accurately diagnose patients. Thus reducing human mistakes in the process.
